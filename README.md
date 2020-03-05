@@ -4,4 +4,4 @@ moj prvy listovnik
 list
 koren
 tote veci
-zemina
+zemina bro
